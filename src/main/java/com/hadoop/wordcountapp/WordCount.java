@@ -12,7 +12,7 @@ import org.apache.hadoop.mapreduce.lib.output.TextOutputFormat;
 
 public class WordCount {
 	public static void main(String[] args) throws Exception {
-          
+          //Configuration
                 // will load all configurations from core-site.xml 
 	         Configuration conf = new Configuration();
 	    
